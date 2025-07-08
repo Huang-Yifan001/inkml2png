@@ -66,3 +66,10 @@ python process_dataset.py
 ``````
 
 脚本将自动查找输入文件夹中的所有` .inkml` 文件，处理它们，并在 `mathwriting-2024-png `文件夹中生成最终结果。
+
+## Credits / Acknowledgements
+
+This project heavily relies on the excellent repository [inkml2img](https://github.com/RobinXL/inkml2img) by [RobinXL](https://github.com/RobinXL).
+We adapted some scripts and ideas from this repository for processing InkML files and generating images.
+
+We gratefully acknowledge their contribution to the open-source community.
